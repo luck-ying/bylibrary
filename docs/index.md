@@ -8,6 +8,7 @@
 
 Github地址：[https://github.com/BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary)
 
+
 文库每天实时更新，欢迎各位安全团队和白帽子加入我们的公益事业
 
 有兴趣的表哥可微信关注公众号“白泽Sec”了解更多技术内容
@@ -29,7 +30,7 @@ Github地址：[https://github.com/BaizeSec/bylibrary](https://github.com/BaizeS
 （排名不分先后）
 
 
-福林表哥、x77、阿乐、Le、Lx、mys3t、hps_fly、NickName、return0、loveU、m_ing、aaaahui、Wizard
+福林表哥、x77、阿乐、Le、Lx、mys3t、hps_fly、NickName、return0、loveU、m_ing、aaaahui、Wizard、P1kAju
 
 
 ## 错误修改
