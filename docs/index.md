@@ -8,6 +8,7 @@
 
 Github地址：[https://github.com/BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary)
 
+投稿邮箱：ByLibrary@163.com或直接在github  Pull requests
 
 文库每天实时更新，欢迎各位安全团队和白帽子加入我们的公益事业
 
