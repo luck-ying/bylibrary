@@ -4,8 +4,6 @@
 --------|--------|---------|--------|-------|----|------|
 |天翼创维awifi路由器存在多处未授权访问漏洞|2019-06-01|H4lo|[http://www.skyworth.com/](http://www.skyworth.com/)|[http://www.skyworth.com/](http://www.skyworth.com/)|Boa/0.94.14rc21|[CVE-2019-12862](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12862)|
 
-### 漏洞详情PDF：[详情](POC_Details/1.天翼创维awifi路由器存在多处未授权访问漏洞.pdf)
-
 ### POC实现代码如下：  
 
 ``` python
@@ -61,8 +59,4 @@ if __name__ == '__main__':
     exp(ip)
 ```
 
----
 
-### POC截图效果如下：
-
-![POC运行截图](img/1.png)
